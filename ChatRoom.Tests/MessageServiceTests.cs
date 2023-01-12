@@ -27,7 +27,7 @@ namespace ChatRoom.Tests
             Data.ChatRoom londonRoom = this.testDb.LondonChatRoom;
 
             // Arrange: create valid data for new comment
-            string content = "Lorem Ipsum";
+            string content = "Some text";
             int chatId = londonRoom.Id;
             string ownerId = guestUser.Id;
 
