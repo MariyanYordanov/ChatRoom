@@ -1,0 +1,7 @@
+﻿@model UserFormModel
+@{
+	this.ViewData["Title"] = "Remove User from Chat";
+	this.ViewData["Type"] = "remove";
+}
+
+@await this.Html.PartialAsync("_UserFormPartial", this.Model)

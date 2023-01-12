@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Data\bin\Debug\net6.0\ChatRoom.Data.deps.json
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Data\bin\Debug\net6.0\ChatRoom.Data.dll
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Data\bin\Debug\net6.0\ChatRoom.Data.pdb
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Data\obj\Debug\net6.0\ChatRoom.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Data\obj\Debug\net6.0\ChatRoom.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Data\obj\Debug\net6.0\ChatRoom.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Data\obj\Debug\net6.0\ChatRoom.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Data\obj\Debug\net6.0\ChatRoom.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Data\obj\Debug\net6.0\ChatRoom.Data.dll
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Data\obj\Debug\net6.0\refint\ChatRoom.Data.dll
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Data\obj\Debug\net6.0\ChatRoom.Data.pdb
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Data\obj\Debug\net6.0\ref\ChatRoom.Data.dll

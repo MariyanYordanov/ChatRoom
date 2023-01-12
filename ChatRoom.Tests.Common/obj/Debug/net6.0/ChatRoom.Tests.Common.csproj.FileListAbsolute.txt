@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Tests.Common\bin\Debug\net6.0\ChatRoom.Tests.Common.deps.json
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Tests.Common\bin\Debug\net6.0\ChatRoom.Tests.Common.dll
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Tests.Common\bin\Debug\net6.0\ChatRoom.Tests.Common.pdb
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Tests.Common\bin\Debug\net6.0\ChatRoom.Data.dll
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Tests.Common\bin\Debug\net6.0\ChatRoom.Data.pdb
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Tests.Common\obj\Debug\net6.0\ChatRoom.Tests.Common.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Tests.Common\obj\Debug\net6.0\ChatRoom.Tests.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Tests.Common\obj\Debug\net6.0\ChatRoom.Tests.Common.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Tests.Common\obj\Debug\net6.0\ChatRoom.Tests.Common.AssemblyInfo.cs
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Tests.Common\obj\Debug\net6.0\ChatRoom.Tests.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Tests.Common\obj\Debug\net6.0\ChatRoom.Tests.Common.csproj.CopyComplete
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Tests.Common\obj\Debug\net6.0\ChatRoom.Tests.Common.dll
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Tests.Common\obj\Debug\net6.0\refint\ChatRoom.Tests.Common.dll
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Tests.Common\obj\Debug\net6.0\ChatRoom.Tests.Common.pdb
+C:\Users\User\Desktop\Svetlina\12\Exam\05.Working-with-Legacy-Code-Exam-Solutions\ChatRoom.Tests.Common\obj\Debug\net6.0\ref\ChatRoom.Tests.Common.dll
